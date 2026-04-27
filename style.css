@@ -1,0 +1,39 @@
+body {
+    margin:0px;
+    padding:0px;
+    user-select:none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align:center
+}
+
+html {
+    height: 100%;
+}
+
+h1 {
+    border-bottom: 5px solid black;
+    padding:0px;
+    margin:0px;
+    font-family: "Manrope", sans-serif;
+    letter-spacing: -0.09em;
+    font-weight: bold;
+    font-size:60px;
+    display: block;
+
+}
+
+svg {
+    display:block;
+    margin-top:15px;
+    cursor: pointer;
+}
+
+.container {
+        display: flex;
+    flex-direction: column;
+    align-items: center; /* horizontal center */
+    justify-content: center; /* vertical if needed */
+}
