@@ -1,2 +1,2 @@
 # Rathos
-Creating Innovation.
+Creative Innovation.
